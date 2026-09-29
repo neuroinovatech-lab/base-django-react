@@ -18,7 +18,9 @@ Uma aplicação funcionando com login, sidebar, painel e um cadastro chamado **R
 
 ## 1. Crie o repositório do seu sistema
 
-Abra [base-django-react](https://github.com/neuroinovatech-lab/base-django-react), clique em **Use this template → Create a new repository** e escolha o nome do novo sistema e a conta combinada com a equipe. O template é privado: você precisa estar conectado a uma conta que tenha acesso.
+Abra [base-django-react](https://github.com/neuroinovatech-lab/base-django-react), clique em **Use this template → Create a new repository** e escolha o nome do novo sistema e a conta de destino. O template é público: qualquer pessoa pode consultar ou baixar o código, sem convite. Para criar um repositório pelo botão de template, entre na sua conta do GitHub.
+
+Para baixar os arquivos sem criar um repositório, use **Code → Download ZIP**.
 
 Copie a URL HTTPS do **novo repositório** no botão Code e execute:
 
